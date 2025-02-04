@@ -1,6 +1,6 @@
 # Web系统:宠物管理系统
 
-一个基于Java Web技术实现的用户与数据管理系统，具备基础的CRUD、用户认证和数据库关联操作功能。
+本人于大二暑期实习并独自的一个基于Java Web技术实现的用户与数据管理系统，具备基础的CRUD、用户认证和数据库关联操作功能。
 
 ## 主要功能
 - ✅ 用户注册/登录
@@ -38,3 +38,8 @@
    - 集成Spring Boot框架
    - 增加前端框架(Vue)
    - 引入单元测试(Junit)
+## 界面展示
+   - 登陆界面
+![image](https://github.com/iceycream2/PetManager/blob/main/picture/1.png)
+   - 主页
+![image](https://github.com/iceycream2/PetManager/blob/main/picture/2.png)
